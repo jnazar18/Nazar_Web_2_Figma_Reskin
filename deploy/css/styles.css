@@ -82,6 +82,10 @@ font face
   font-family: Cabin_Bold;
   src: url(../fonts/Cabin/static/Cabin-Bold.ttf);}
 
+@font-face {
+  font-family: Raleway_SemiBold;
+  src: url(../fonts/Raleway/Raleway-SemiBold.ttf);}
+
 /**
  * Render the `main` element consistently in IE.
  */
@@ -151,7 +155,12 @@ h7 {
 .More_Details {
   font-size: 18px;
   margin: 0.67em 0;
-  font-family: "Cabin_Bold"}
+  font-family: "Cabin_Bold";}
+
+.Email {
+  font-size: 14;
+  margin: 0.67em 0;
+  font-family: "Raleway_SemiBold";}
 
 /* Grouping content
    ========================================================================== */
