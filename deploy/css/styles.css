@@ -86,6 +86,10 @@ font face
   font-family: Raleway_SemiBold;
   src: url(../fonts/Raleway/Raleway-SemiBold.ttf);}
 
+@font-face {
+  font-family: Raleway_Medium;
+  src: url(../fonts/Raleway/Raleway-Medium.ttf);}
+
 /**
  * Render the `main` element consistently in IE.
  */
@@ -162,7 +166,15 @@ h7 {
   margin: 0.67em 0;
   font-family: "Cabin_SemiBold";}
 
+.Wall-Text {
+  font-size: 16px;
+  margin: 0.67em 0;
+  font-family: "Raleway_Medium";}
 
+.Address {
+  font-size: 12px;
+  margin: 0.67em 0;
+  font-family: "Raleway_Medium";}
 
 .Email {
   font-size: 14;
