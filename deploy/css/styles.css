@@ -48,11 +48,11 @@ font face
 
 @font-face {
   font-family: Cabin_header3;
-  src: url(../fonts/Cabin/static/Cabin-Regular.ttf);}
+  src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
 
 @font-face {
   font-family: Cabin_header4;
-  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
+  src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
 
 @font-face {
   font-family: Cabin_header5;
@@ -63,8 +63,12 @@ font face
   src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
 
 @font-face {
+  font-family: Cabin_header7;
+  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
+
+@font-face {
   font-family: Raleway_Regular;
-  src: url(../fonts/Raleway/Raleway-Regular.ttf)}
+  src: url(../fonts/Raleway/Raleway-Regular.ttf);}
 
 @font-face {
   font-family: Cabin_SemiBold;
@@ -76,20 +80,19 @@ font face
 
 @font-face {
   font-family: Cabin_Bold;
-  src: url(../fonts/Cabin/static/Cabin-Bold.ttf);
-}
+  src: url(../fonts/Cabin/static/Cabin-Bold.ttf);}
 
 /**
  * Render the `main` element consistently in IE.
  */
 main {
-  display: block;
-}
+  display: block;}
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
+
 h1 {
   font-size: 12px;
   margin: 0.67em 0;
@@ -101,29 +104,29 @@ h2 {
   font-family: "Cabin_header2";}
 
 h3 {
-  font-size: 20px;
+  font-size: 22px;
   margin: 0.67em 0;
   font-family: "Cabin_header3";}
 
 h4 {
-  font-size: 27px;
+  font-size: 20px;
   margin: 0.67em 0;
   font-family: "Cabin_header4";}
 
 h5 {
-  font-size: 20px;
+  font-size: 27px;
   margin: 0.67em 0;
   font-family: "Cabin_header5";}
 
 h6 {
-  font-size: 16px;
+  font-size: 20px;
   margin: 0.67em 0;
   font-family: "Cabin_header6";}
 
 h7 {
-  font-size: 22px;
+  font-size: 16px;
   margin: 0.67em 0;
-  font-family: "Cabin_Medium";}
+  font-family: "Cabin_header7";}
 
 .Search_Bar {
   font-size: 16px;
