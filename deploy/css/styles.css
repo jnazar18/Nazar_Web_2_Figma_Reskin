@@ -74,6 +74,11 @@ font face
   font-family: Cabin_Medium;
   src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
 
+@font-face {
+  font-family: Cabin_Bold;
+  src: url(../fonts/Cabin/static/Cabin-Bold.ttf);
+}
+
 /**
  * Render the `main` element consistently in IE.
  */
@@ -95,7 +100,7 @@ h2 {
   margin: 0.67em 0;
   font-family: "Cabin_header2";}
 
- h3 {
+h3 {
   font-size: 20px;
   margin: 0.67em 0;
   font-family: "Cabin_header3";}
@@ -115,25 +120,35 @@ h6 {
   margin: 0.67em 0;
   font-family: "Cabin_header6";}
 
-.Search_Bar {
-  font-size: 16px
+h7 {
+  font-size: 22px;
   margin: 0.67em 0;
-  font-family: "Raleway_Regular"}
+  font-family: "Cabin_Medium";}
+
+.Search_Bar {
+  font-size: 16px;
+  margin: 0.67em 0;
+  font-family: "Raleway_Regular";}
 
 .Scouts {
-  font-size: 14px
+  font-size: 14px;
   margin: 0.67em 0;
-  font-family: "Cabin_SemiBold"}
+  font-family: "Cabin_SemiBold";}
 
 .Location {
-  font-size: 16px
-  margin: 0.67em 0
-  font-family: "Cabin_SemiBold"}
+  font-size: 16px;
+  margin: 0.67em 0;
+  font-family: "Cabin_SemiBold";}
 
 .Long_Lake {
-  font-size: 16px
-  margin: 0.67em 0
-  font-family: "Cabin_Medium"}
+  font-size: 16px;
+  margin: 0.67em 0;
+  font-family: "Cabin_Medium";}
+
+.More_Details {
+  font-size: 18px;
+  margin: 0.67em 0;
+  font-family: "Cabin_Bold"}
 
 /* Grouping content
    ========================================================================== */
