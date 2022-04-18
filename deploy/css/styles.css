@@ -31,6 +31,18 @@ html {
  */
 body {
   margin: 0;
+  
+}
+
+/** 
+font face
+*/
+
+
+
+@font-face {
+  font-family: Cabin_header1;
+  src: url(../fonts/Cabin/static/Cabin-Medium.ttf);
 }
 
 /**
@@ -47,6 +59,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  font-family: "Cabin_header1";
 }
 
 /* Grouping content
