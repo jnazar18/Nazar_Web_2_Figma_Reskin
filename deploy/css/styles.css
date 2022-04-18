@@ -68,8 +68,11 @@ font face
 
 @font-face {
   font-family: Cabin_SemiBold;
-  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);
-}
+  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
+
+@font-face {
+  font-family: Cabin_Medium;
+  src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
 
 /**
  * Render the `main` element consistently in IE.
@@ -121,6 +124,16 @@ h6 {
   font-size: 14px
   margin: 0.67em 0;
   font-family: "Cabin_SemiBold"}
+
+.Location {
+  font-size: 16px
+  margin: 0.67em 0
+  font-family: "Cabin_SemiBold"}
+
+.Long_Lake {
+  font-size: 16px
+  margin: 0.67em 0
+  font-family: "Cabin_Medium"}
 
 /* Grouping content
    ========================================================================== */
