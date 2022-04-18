@@ -38,11 +38,37 @@ body {
 font face
 */
 
-
-
 @font-face {
   font-family: Cabin_header1;
-  src: url(../fonts/Cabin/static/Cabin-Medium.ttf);
+  src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
+
+@font-face {
+  font-family: Cabin_header2;
+  src: url(../fonts/Cabin/static/Cabin-Bold.ttf);}
+
+@font-face {
+  font-family: Cabin_header3;
+  src: url(../fonts/Cabin/static/Cabin-Regular.ttf);}
+
+@font-face {
+  font-family: Cabin_header4;
+  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
+
+@font-face {
+  font-family: Cabin_header5;
+  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
+
+@font-face {
+  font-family: Cabin_header6;
+  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
+
+@font-face {
+  font-family: Raleway_Regular;
+  src: url(../fonts/Raleway/Raleway-Regular.ttf)}
+
+@font-face {
+  font-family: Cabin_SemiBold;
+  src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);
 }
 
 /**
@@ -57,10 +83,44 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-size: 2em;
+  font-size: 12px;
   margin: 0.67em 0;
-  font-family: "Cabin_header1";
-}
+  font-family: "Cabin_header1";}
+
+h2 {
+  font-size: 18px;
+  margin: 0.67em 0;
+  font-family: "Cabin_header2";}
+
+ h3 {
+  font-size: 20px;
+  margin: 0.67em 0;
+  font-family: "Cabin_header3";}
+
+h4 {
+  font-size: 27px;
+  margin: 0.67em 0;
+  font-family: "Cabin_header4";}
+
+h5 {
+  font-size: 20px;
+  margin: 0.67em 0;
+  font-family: "Cabin_header5";}
+
+h6 {
+  font-size: 16px;
+  margin: 0.67em 0;
+  font-family: "Cabin_header6";}
+
+.Search_Bar {
+  font-size: 16px
+  margin: 0.67em 0;
+  font-family: "Raleway_Regular"}
+
+.Scouts {
+  font-size: 14px
+  margin: 0.67em 0;
+  font-family: "Cabin_SemiBold"}
 
 /* Grouping content
    ========================================================================== */
