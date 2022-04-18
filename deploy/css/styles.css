@@ -164,7 +164,8 @@ h7 {
 .Click_now {
   font-size: 14px;
   margin: 0.67em 0;
-  font-family: "Cabin_SemiBold";}
+  font-family: "Cabin_SemiBold";
+  background-color: #B02A27;}
 
 .Wall_Text {
   font-size: 16px;
@@ -180,6 +181,10 @@ h7 {
   font-size: 14;
   margin: 0.67em 0;
   font-family: "Raleway_SemiBold";}
+
+.Footer {
+  background-color: #293241;
+}
 
 /* Grouping content
    ========================================================================== */
