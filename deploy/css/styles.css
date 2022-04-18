@@ -194,9 +194,11 @@ h7 {
 .five_sections {
   background-color: #E0DFD5;}
 
+.image {
+  width: 100%;}
+
 .Footer {
-  background-color: #293241;
-}
+  background-color: #293241;}
 
 /* Grouping content
    ========================================================================== */
