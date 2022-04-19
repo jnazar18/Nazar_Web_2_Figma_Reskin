@@ -101,6 +101,9 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
+.header {
+  background-color:#293241;}
+
 h1 {
   font-size: 12px;
   margin: 0.67em 0;
@@ -140,6 +143,9 @@ h7 {
   font-size: 16px;
   margin: 0.67em 0;
   font-family: "Raleway_Regular";}
+
+.Search_Icon {
+  background-color:#B02A27;}
 
 .Scouts {
   font-size: 14px;
