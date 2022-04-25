@@ -9,12 +9,12 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/assets\/adirondacks map.jpg" : {
+    "\/assets\/adirondacks_map.jpg" : {
       "ft" : 16384,
       "iS" : 36058,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/adirondacks map.jpg",
+      "oAP" : "\/assets\/adirondacks_map.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -52,12 +52,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/hot air balloon.jpg" : {
+    "\/assets\/hot_air_balloon.jpg" : {
       "ft" : 16384,
       "iS" : 98265,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/hot air balloon.jpg",
+      "oAP" : "\/assets\/hot_air_balloon.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -65,12 +65,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/I'm in this picture.jpg" : {
+    "\/assets\/I'm_in_this_picture.jpg" : {
       "ft" : 16384,
       "iS" : 8687,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/I'm in this picture.jpg",
+      "oAP" : "\/assets\/I'm_in_this_picture.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -88,19 +88,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/me behind the tower.jpg" : {
-      "ft" : 16384,
-      "iS" : 19769,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/me behind the tower.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/assets\/me in 2017.jpg" : {
       "ft" : 16384,
       "iS" : 30906,
@@ -114,12 +101,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/me with a torch.jpg" : {
+    "\/assets\/me_behind_the_tower.jpg" : {
+      "ft" : 16384,
+      "iS" : 19769,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/me_behind_the_tower.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/me_with_a_torch.jpg" : {
       "ft" : 16384,
       "iS" : 78606,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/me with a torch.jpg",
+      "oAP" : "\/assets\/me_with_a_torch.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -150,11 +150,11 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/SAC Logo 2.png" : {
+    "\/assets\/SAC_Logo_2.png" : {
       "ft" : 32768,
       "iS" : 15813,
       "oA" : 0,
-      "oAP" : "\/assets\/SAC Logo 2.png",
+      "oAP" : "\/assets\/SAC_Logo_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -199,12 +199,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/trading post.jpg" : {
+    "\/assets\/trading_post.jpg" : {
       "ft" : 16384,
       "iS" : 22068,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/trading post.jpg",
+      "oAP" : "\/assets\/trading_post.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -599,12 +599,12 @@
       "oAP" : "\/deploy\/fonts\/Raleway\/Raleway-ThinItalic.ttf",
       "oF" : 0
     },
-    "\/deploy\/img\/adirondacks map.jpg" : {
+    "\/deploy\/img\/adirondacks_map.jpg" : {
       "ft" : 16384,
       "iS" : 36058,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/adirondacks map.jpg",
+      "oAP" : "\/deploy\/img\/adirondacks_map.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -642,12 +642,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/hot air balloon.jpg" : {
+    "\/deploy\/img\/hot_air_balloon.jpg" : {
       "ft" : 16384,
       "iS" : 98265,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hot air balloon.jpg",
+      "oAP" : "\/deploy\/img\/hot_air_balloon.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -655,12 +655,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/I'm in this picture.jpg" : {
+    "\/deploy\/img\/I'm_in_this_picture.jpg" : {
       "ft" : 16384,
       "iS" : 8687,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/I'm in this picture.jpg",
+      "oAP" : "\/deploy\/img\/I'm_in_this_picture.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -678,19 +678,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/me behind the tower.jpg" : {
-      "ft" : 16384,
-      "iS" : 19769,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/me behind the tower.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/img\/me in 2017.jpg" : {
       "ft" : 16384,
       "iS" : 30906,
@@ -704,12 +691,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/me with a torch.jpg" : {
+    "\/deploy\/img\/me_behind_the_tower.jpg" : {
+      "ft" : 16384,
+      "iS" : 19769,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/me_behind_the_tower.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/me_with_a_torch.jpg" : {
       "ft" : 16384,
       "iS" : 78606,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/me with a torch.jpg",
+      "oAP" : "\/deploy\/img\/me_with_a_torch.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -740,11 +740,11 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/SAC Logo 2.png" : {
+    "\/deploy\/img\/SAC_Logo_2.png" : {
       "ft" : 32768,
       "iS" : 15813,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/SAC Logo 2.png",
+      "oAP" : "\/deploy\/img\/SAC_Logo_2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -789,12 +789,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/trading post.jpg" : {
+    "\/deploy\/img\/trading_post.jpg" : {
       "ft" : 16384,
       "iS" : 22068,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/trading post.jpg",
+      "oAP" : "\/deploy\/img\/trading_post.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
