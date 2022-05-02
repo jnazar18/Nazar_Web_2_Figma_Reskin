@@ -373,7 +373,7 @@ textarea {
 ============= */
 
 @font-face {
-  font-family: Cabin_header1;
+  font-family: Sabattis_Adventure_Camp;
   src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
 
 @font-face {
@@ -436,12 +436,13 @@ main {
  */
 
 .header {
-  background-color:#293241;}
-
-h1 {
-  font-size: 12px;
-  margin: 0.67em 0;
-  font-family: "Cabin_header1";}
+  background-color:#293241;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "Site_Logo"
+    "Site_Logo Site_Title"
+    "Site_Logo";}
 
 h2 {
   font-size: 18px;
@@ -469,11 +470,21 @@ h6 {
   font-family: "Cabin_header6";
   margin-left: 15px;}
 
-h7 {
+h1 {
   font-size: 16px;
   margin: 0.67em 0;
   font-family: "Cabin_header7";
   margin-left: 15px;}
+
+.Site_Logo {
+  grid-area:Site_Logo;
+  }
+
+.Site_Title {
+  font-family: "Sabattis_Adventure_Camp";
+  font-size: 12px;
+  margin: 50px;
+  color: "#ffffff";}
 
 .Search_Bar {
   font-size: 16px;
