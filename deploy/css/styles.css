@@ -478,7 +478,8 @@ h1 {
 
 .Site_Logo {
   grid-area:Site_Logo;
-  }
+  width: 35px;
+  margin-left: 15px;}
 
 .Site_Title {
   font-family: "Sabattis_Adventure_Camp";
