@@ -19,12 +19,14 @@
 @import "layout/_footer";
 
 // Sections Styles
+@import "sections/Outdoor_Activities.scss";
+
 /** 
 font face
 */
 
 @font-face {
-    font-family: Cabin_header1;
+    font-family: Header;
     src: url(../fonts/Cabin/static/Cabin-Medium.ttf);}
   
   @font-face {
@@ -48,7 +50,7 @@ font face
     src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
   
   @font-face {
-    font-family: Cabin_header7;
+    font-family: Cabin_header1;
     src: url(../fonts/Cabin/static/Cabin-SemiBold.ttf);}
   
   @font-face {
@@ -86,10 +88,10 @@ font face
    * `article` contexts in Chrome, Firefox, and Safari.
    */
   
-  .header {
+  .header_container {
     background-color:#293241;}
   
-  h1 {
+  header {
     font-size: 12px;
     margin: 0.67em 0;
     font-family: "Cabin_header1";}
@@ -120,7 +122,7 @@ font face
     font-family: "Cabin_header6";
     margin-left: 15px;}
   
-  h7 {
+  h1 {
     font-size: 16px;
     margin: 0.67em 0;
     font-family: "Cabin_header7";

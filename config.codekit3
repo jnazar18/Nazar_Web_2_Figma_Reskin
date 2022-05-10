@@ -88,12 +88,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/me in 2017.jpg" : {
+    "\/assets\/me_behind_the_tower.jpg" : {
       "ft" : 16384,
-      "iS" : 30906,
+      "iS" : 19769,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/me in 2017.jpg",
+      "oAP" : "\/assets\/me_behind_the_tower.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -101,12 +101,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/me_behind_the_tower.jpg" : {
+    "\/assets\/me_in_2017.jpg" : {
       "ft" : 16384,
-      "iS" : 19769,
+      "iS" : 30906,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/me_behind_the_tower.jpg",
+      "oAP" : "\/assets\/me_in_2017.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -127,12 +127,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/patrol cooking.jpg" : {
+    "\/assets\/patrol_cooking.jpg" : {
       "ft" : 16384,
       "iS" : 22021,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/patrol cooking.jpg",
+      "oAP" : "\/assets\/patrol_cooking.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -678,12 +678,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/me in 2017.jpg" : {
+    "\/deploy\/img\/me_behind_the_tower.jpg" : {
       "ft" : 16384,
-      "iS" : 30906,
+      "iS" : 19769,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/me in 2017.jpg",
+      "oAP" : "\/deploy\/img\/me_behind_the_tower.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -691,12 +691,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/me_behind_the_tower.jpg" : {
+    "\/deploy\/img\/me_in_2017.jpg" : {
       "ft" : 16384,
-      "iS" : 19769,
+      "iS" : 30906,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/me_behind_the_tower.jpg",
+      "oAP" : "\/deploy\/img\/me_in_2017.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -717,12 +717,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/patrol cooking.jpg" : {
+    "\/deploy\/img\/patrol_cooking.jpg" : {
       "ft" : 16384,
       "iS" : 22021,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/patrol cooking.jpg",
+      "oAP" : "\/deploy\/img\/patrol_cooking.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1024,6 +1024,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/layout\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/Outdoor_Activities.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/Outdoor_Activities.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
