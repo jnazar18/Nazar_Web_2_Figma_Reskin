@@ -208,3 +208,21 @@ font face
   
   .Footer {
     background-color: #293241;}
+
+
+
+  header{
+
+  }
+
+  .container{
+      display: grid;
+      grid-template-columns: 15px auto 15px;
+      grid-template-areas: 
+      ". content ."
+      ;
+
+      .content{
+          grid-area: content;
+      }
+  }
