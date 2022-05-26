@@ -364,6 +364,11 @@ template {
 /* =============
     Typography
 ============= */
+body h1, body h2, body h3, body h4, body h5, body h6 {
+  font-family: "Cabin" "sans-serif";
+  font-weight: 600;
+}
+
 /* =============
     Buttons
 ============= */
@@ -397,9 +402,16 @@ textarea {
 /* =============
     Base
 ============= */
-.container {
+.outdoor_activities {
   display: grid;
-  grid-template-columns: 15px auto 15px;
+  grid-template-columns: 100%;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
+  .outdoor_activities {
+    grid-template-columns: 50% 50%;
+    font-size: 20px;
+  }
 }
 
 /** 
@@ -612,4 +624,13 @@ h1 {
 
 .Footer {
   background-color: #293241;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 15px auto 15px;
+  grid-template-areas: ". content .";
+}
+.container .content {
+  grid-area: content;
 }
